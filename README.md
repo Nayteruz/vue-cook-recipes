@@ -1,24 +1,10 @@
 # vue-cook-recipes
 
-## Project setup
+## Список рецептов для готовки
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Список рецептов где можно сделать CRUD операции и рецептами(добавить, прочитать, удалить, редактировать).
+Главная страница список всех рецептов. На отдельной странице можно посмотреть подробное описание конкретного рецепта.
+Создается с 3 предуставленными рецептами. 
+Рецепты хранятся в localStorage.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
